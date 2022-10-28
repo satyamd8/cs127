@@ -1,0 +1,6 @@
+#! /bin/bash
+Satyam Dhar
+satyam.dhar58@myhunter.cuny.edu
+
+echo “Hello!”
+echo “Greeting from $USER”
