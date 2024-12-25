@@ -1,2 +1,2 @@
 # cs127
-rep of all cs127 files and assignments
+a repository for all Python programming assignments done for CS127
